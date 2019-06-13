@@ -10,10 +10,8 @@ $(document).ready(function(){
     var romanHundred = hundredsPlace(parseInt(arrayedNumber[2]));
     var romanThousand = thousandsPlace(parseInt(arrayedNumber[3]));
     var result = [romanThousand, romanHundred, romanTen, romanOne];
-    console.log(result)
     var joined = result.join("");
-    console.log(joined)
-    // console.log(result)
+    $(".output").text(joined);
   });
 });
 
