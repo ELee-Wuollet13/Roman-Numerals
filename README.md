@@ -2,7 +2,7 @@
 
 #### _A web page to translate numbers into roman numerals, 6-13-2019_
 
-#### _Authors: Nate Wangemann , Cord Walsh, Everett Lee-Wuollet_
+#### _Authors:  Everett Lee-Wuollet
 
 ## Description
 
@@ -14,15 +14,11 @@ Step 1: Clone this repository to your desktop
 
 Step 2: Open index.html
 
-## Specs
-
-
-
 ## Licensing
 
 MIT License
 
-Copyright (c) 2019 Alex Siegberg & Nathan Wangemann
+Copyright (c) 2019 Everett Lee-Wuollet
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
